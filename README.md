@@ -1,6 +1,6 @@
 # Hi, I’m Yassine 👋🏼
 
-<img src="https://user-images.githubusercontent.com/your-image-placeholder.jpg" alt="Yassine's banner" style="width:100%; border-radius:10px;" />
+<img src="https://user-images.githubusercontent.com/your-image-placeholder.jpg" alt="" style="width:100%; border-radius:10px;" />
 
 ---
 
