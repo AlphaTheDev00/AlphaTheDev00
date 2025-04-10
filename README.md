@@ -14,7 +14,7 @@ I combine creativity with technical skills to craft beautiful and functional dig
 
 ## 🚀 Portfolio
 
-🌐 [Live Portfolio Site](https://alphathedev00.github.io/)  
+🌐 [Live Portfolio Site](https://yassinechportfolio.netlify.app/)  
 📁 [Portfolio GitHub Repo](https://github.com/AlphaTheDev00/AlphaTheDev00.github.io)
 
 ---
