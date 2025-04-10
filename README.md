@@ -14,8 +14,8 @@ I combine creativity with technical skills to craft beautiful and functional dig
 
 ## 🚀 Portfolio
 
-🌐 [Live Portfolio Site](https://your-portfolio-link.com)  
-📁 [Portfolio GitHub Repo](https://github.com/yassinechikar/portfolio)
+🌐 [Live Portfolio Site](https://alphathedev00.github.io/)  
+📁 [Portfolio GitHub Repo](https://github.com/AlphaTheDev00/AlphaTheDev00.github.io)
 
 ---
 
